@@ -62,7 +62,7 @@ A comprehensive employee management system designed to streamline operations and
    ```
 3. Start the development server:
    ```bash
-   npm run dev (vite)
+   npm run dev 
    ```
 
 ---
@@ -71,9 +71,11 @@ A comprehensive employee management system designed to streamline operations and
 
 ### **Screenshots**
 #### Employee Dashboard
-![Employee Dashboard](D:\full-stack-app\Staff-Track-System\ems-frontend\src\assets\screenshots\Screenshot 1.png)
-![Employee Dashboard](D:\full-stack-app\Staff-Track-System\ems-frontend\src\assets\screenshots\Screenshot 2.png)
-![Employee Dashboard](D:\full-stack-app\Staff-Track-System\ems-frontend\src\assets\screenshots\Screenshot 3.png)
+![Employee Dashboard](https://github.com/Navaneetha-Krishnan-S/Staff-Track-System/blob/main/ems-frontend/src/assets/screenshots/Screenshot%201.png)
+![Employee Dashboard](https://github.com/Navaneetha-Krishnan-S/Staff-Track-System/blob/main/ems-frontend/src/assets/screenshots/Screenshot%202.png)
+![Employee Dashboard](https://github.com/Navaneetha-Krishnan-S/Staff-Track-System/blob/main/ems-frontend/src/assets/screenshots/Screenshot%203.png)
+
+
 
 
 
