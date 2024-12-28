@@ -71,7 +71,10 @@ A comprehensive employee management system designed to streamline operations and
 
 ### **Screenshots**
 #### Employee Dashboard
-![Employee Dashboard](https://via.placeholder.com/800x400.png?text=Employee+Dashboard)
+![Employee Dashboard](D:\full-stack-app\Staff-Track-System\ems-frontend\src\assets\screenshots\Screenshot 1.png)
+![Employee Dashboard](D:\full-stack-app\Staff-Track-System\ems-frontend\src\assets\screenshots\Screenshot 2.png)
+![Employee Dashboard](D:\full-stack-app\Staff-Track-System\ems-frontend\src\assets\screenshots\Screenshot 3.png)
+
 
 
 
